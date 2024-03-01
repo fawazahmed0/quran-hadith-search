@@ -1,0 +1,19 @@
+[Arabic](#arabic)
+
+[English](#english)
+
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَنْ صَلَّى صَلَاةً لَمْ يَقْرَأْ فِيهَا بِأُمِّ الْقُرْآنِ، فَهِيَ خِدَاجٌ(1) ثَلَاثًا، غَيْرَ تَمَامٍ، فَقِيلَ لِأَبِي هُرَيْرَةَ: إِنَّا نَكُونُ وَرَاءَ الْإِمَامِ، فَقَالَ: اقْرَأْ بِهَا فِي نَفْسِكَ، فَإِنِّي سَمِعْتُ النبي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: قَالَ اللَّهُ عَزَّ وَجَلَّ: قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ، وَلِعَبْدِي مَا سَأَلَ، فَإِذَا قَالَ الْعَبْدُ:( الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ) قَالَ اللَّهُ عَزَّ وَجَلَّ: حَمِدَنِي عَبْدِي، وَإِذَا قَالَ:( الرَّحْمَنِ الرَّحِيمِ ) قَالَ اللَّهُ عَزَّ وَجَلَّ: أَثْنَى عَلَيَّ عَبْدِي، وَإِذَا قَالَ:( مَالِكِ يَوْمِ الدِّينِ ) قَالَ اللَّهُ: مَجَّدَنِي عَبْدِي - وَقَالَ مَرَّةً: فَوَّضَ إِلَيَّ عَبْدِي، فَإِذَا قَالَ:( إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ) قَالَ: هَذَا بَيْنِي وَبَيْنَ عَبْدِي وَلِعَبْدِي مَا سَأَلَ، فَإِذَا قَالَ:( اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ) قَالَ: هَذَا لِعَبْدِي وَلِعَبْدِي مَا سَأَلَ .(br)رواه مسلم (وكذلك مالك والترمذي وأبو داود والنسائي وابن ماجه)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+On the authority of Abu Hurayrah (may Allah be pleased with him) from the Prophet (ﷺ), who said: A prayer performed by someone who has not recited the Essence of the Quran (1) during it is deficient (and he repeated the word three times), incomplete. Someone said to Abu Hurayrah: [Even though] we are behind the imam? (2) He said: Recite it to yourself, for I have heard the Prophet (may the blessings and peace of Allah be up on him) say: Allah (mighty and sublime be He), had said: I have divided prayer between Myself and My servant into two halves, and My servant shall have what he has asked for. When the servant says: Al-hamdu lillahi rabbi l-alamin (3), Allah (mighty and sublime be He) says: My servant has praised Me. And when he says: Ar-rahmani r-rahim (4), Allah (mighty and sublime be He) says: My servant has extolled Me, and when he says: Maliki yawmi d-din (5), Allah says: My servant has glorified Me - and on one occasion He said: My servant has submitted to My power. And when he says: Iyyaka na budu wa iyyaka nasta in (6), He says: This is between Me and My servant, and My servant shall have what he has asked for. And when he says: Ihdina s-sirata l- mustaqim, siratal ladhina an amta alayhim ghayril-maghdubi alayhim wa la d-dallin (7), He says: This is for My servant, and My servant shall have what he has asked for. (1) Surat al-Fatihah, the first surah (chapter) of the Qur'an. (2) i.e. standing behind the imam (leader) listening to him reciting al-Fatihah. (3) "Praise be to Allah, Lord of the Worlds." (4) "The Merciful, the Compassionate". (5) "Master of the Day of Judgement". (6) "It is You we worship and it is You we ask for help". (7) "Guide us to the straight path, the path of those upon whom You have bestowed favors, not of those against whom You are angry, nor of those who are astray". It was related by Muslim (also by Malik, at-Tirmidhi, Abu-Dawud, an-Nasa'i and Ibn Majah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>

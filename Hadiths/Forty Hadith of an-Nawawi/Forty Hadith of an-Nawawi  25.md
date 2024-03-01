@@ -1,0 +1,29 @@
+[Arabic](#arabic)
+
+[Bengali](#bengali)
+
+[English](#english)
+
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عَنْ أَبِي ذَرٍّ رَضِيَ اللهُ عَنْهُ أَيْضًا، أَنَّ نَاسًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالُوا لِلنَّبِيِّ صلى الله عليه و سلم يَا رَسُولَ اللَّهِ ذَهَبَ أَهْلُ الدُّثُورِ بِالْأُجُورِ؛ يُصَلُّونَ كَمَا نُصَلِّي، وَيَصُومُونَ كَمَا نَصُومُ، وَيَتَصَدَّقُونَ بِفُضُولِ أَمْوَالِهِمْ. قَالَ: أَوَلَيْسَ قَدْ جَعَلَ اللَّهُ لَكُمْ مَا تَصَّدَّقُونَ؟ إنَّ بِكُلِّ تَسْبِيحَةٍ صَدَقَةً، وَكُلِّ تَكْبِيرَةٍ صَدَقَةً، وَكُلِّ تَحْمِيدَةٍ صَدَقَةً، وَكُلِّ تَهْلِيلَةٍ صَدَقَةً، وَأَمْرٌ بِمَعْرُوفٍ صَدَقَةٌ، وَنَهْيٌ عَنْ مُنْكَرٍ صَدَقَةٌ، وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ. قَالُوا: يَا رَسُولَ اللَّهِ أَيَأْتِي أَحَدُنَا شَهْوَتَهُ وَيَكُونُ لَهُ فِيهَا أَجْرٌ؟ قَالَ: أَرَأَيْتُمْ لَوْ وَضَعَهَا فِي حَرَامٍ أَكَانَ عَلَيْهِ وِزْرٌ؟ فَكَذَلِكَ إذَا وَضَعَهَا فِي الْحَلَالِ، كَانَ لَهُ أَجْرٌ . [رَوَاهُ مُسْلِمٌ]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
+
+## Bengali
+
+
+<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+আবূ যর (রাঃ) ​রাসূলুল্লাহর কিছু সাহাবী নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-কে বলেনঃ "হে আল্লাহর রাসূল! বিত্তবান লোকেরা প্রতিফল ও সওয়াবের কাজে এগিয়ে গেছে। আমরা নামায পড়ি তারাও সেরকম নামায পড়ে, আমরা রোযা রাখি তারাও সেরকম রোযা রাখে, তারা প্রয়োজনের অতিরিক্ত অর্থ সদকা করে। তিনি বলেনঃ আল্লাহ্ কি তোমাদের জন্য এমন জিনিস রাখেননি যে তোমরা সদকাহ্ দিতে পার। প্রত্যেক তাসবীহ্ (সোবহান আল্লাহ্) হচ্ছে সদকাহ্, প্রত্যেক তাকবীর (আল্লাহু আকবার) হচ্ছে সদকাহ্, প্রত্যেক তাহমীদ (আলহামদুলিল্লাহ্) হচ্ছে সদকাহ্, প্রত্যেক তাহলীল (লা ইলাহা ইল্লাল্লাহ্) হচ্ছে সদকাহ্, প্রত্যেক ভালো কাজের হুকুম দেয়া হচ্ছে সদকাহ্ এবং মন্দ কাজ থেকে বিরত করা হচ্ছে সদকাহ্। আর তোমাদের প্রত্যেকে আপন স্ত্রীর সাথে সহবাস করাও হচ্ছে সদকাহ্। তারা জিজ্ঞাসা করেনঃ হে আল্লাহর রাসূল! আমাদের মধ্যে কেউ যখন যৌন আকাঙ্খা সহকারে স্ত্রীর সাথে সম্ভোগ করে, তাতেও কি সওয়াব হবে? তিনি বলেনঃ তোমরা কি দেখ না, যখন সে হারাম পদ্ধতিতে তা করে, তখন সে গোনাহগার হয় কি না! সুতরাং অনুরূপভাবে যখন সে ঐ কাজ বৈধভাবে করে তখন সে তার জন্য প্রতিফল ও সওয়াব পাবে।" [মুসলিমঃ]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
+
+## English
+
+
+<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Also on the authority of Abu Dharr (may Allah be pleased with him): Some people from amongst the Companions of the Messenger of Allah (peace and blessings of Allah be upon him) said to the Prophet (peace and blessings of Allah be upon him), "O Messenger of Allah, the affluent have made off with the rewards; they pray as we pray, they fast as we fast, and they give [much] in charity by virtue of their wealth." He (peace and blessings of Allah be upon him) said, "Has not Allah made things for you to give in charity? Truly every tasbeehah [saying: 'subhan-Allah'] is a charity, and every takbeerah [saying: 'Allahu akbar'] is a charity, and every tahmeedah [saying: 'al-hamdu lillah'] is a charity, and every tahleelah [saying: 'laa ilaha illAllah'] is a charity. And commanding the good is a charity, and forbidding an evil is a charity, and in the bud'i [sexual act] of each one of you there is a charity." They said, "O Messenger of Allah, when one of us fulfils his carnal desire will he have some reward for that?" He (peace and blessings of Allah be upon him) said, "Do you not see that if he were to act upon it [his desire] in an unlawful manner then he would be deserving of punishment? Likewise, if he were to act upon it in a lawful manner then he will be deserving of a reward." [Muslim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>

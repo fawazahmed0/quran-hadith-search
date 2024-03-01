@@ -1,0 +1,9 @@
+[Arabic](#arabic)
+
+## Arabic
+
+
+<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «إِنَّ أَرْفَعَ النَّاسِ يَوْمَ الْقِيَامَةِ، إِمَامٌ عَادِلٌ»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>483</td></tr><tr><td>Arabic No</td><td>483</td></tr><tr><td>Reference</td><td>Book 29 Hadith 2</td></tr></tbody></table></div>
