@@ -328,7 +328,7 @@ Qad yaAAlamu Allahu almuAAawwiqeena minkum waalqaileena liikhwanihim halumma ila
 
 
 <div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Qad ya'lamul laahul mu'awwiqeena minkum walqaaa'ileena li ikhwaanihim hahumma ilainaa, wa laa yaatoonal baasa illaa qaleelaa
+Qad ya'lamul laahul mu'awwiqeena minkum walqaaa'ileena li ikhwaanihim halumma ilainaa, wa laa yaatoonal baasa illaa qaleelaa
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
