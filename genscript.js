@@ -1,6 +1,10 @@
 const fs = require('fs-extra')
 const path = require('path')
-const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
+var TurndownService = require('turndown')
+var turndownPluginGfm = require('turndown-plugin-gfm')
+var gfm = turndownPluginGfm.gfm
+var turndownService = new TurndownService()
+turndownService.use(gfm)
 
 let hadithLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/", "https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/"]
 let quranLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/", "https://raw.githubusercontent.com/fawazahmed0/quran-api/1/"]
@@ -36,7 +40,7 @@ async function test() {
 
             for (let hadith of hadiths) {
                 let pathToSave = path.join(hadithPath,editionsJSON[bareedition].name,`${editionsJSON[bareedition].name}  ${Math.floor(hadith.hadithnumber)}.md`)
-                let dataToSave = getHadithCardElem(hadith, dirval, lang, isocodes)
+                let dataToSave = turndownService.turndown(getHadithCardElem(hadith, dirval, lang, isocodes))
 
                 // Add table of content
                 if(pathToSave in bigJSON === false)
@@ -62,7 +66,7 @@ async function test() {
         for(let quran of data.quran){
             let chapterName = `Chapter ${quran.chapter} ${arabicChapters[quran.chapter - 1].replaceAll('-',' ')}`
             let pathToSave = path.join(quranPath,chapterName,`${chapterName} Verse  ${quran.verse}.md`)
-            let dataToSave =  getQuranCardElem(quran, value.direction, value.language,value.author, isocodes) 
+            let dataToSave =  turndownService.turndown(getQuranCardElem(quran, value.direction, value.language,value.author, isocodes))
             
             // Add table of content
             if(pathToSave in bigJSON === false)
